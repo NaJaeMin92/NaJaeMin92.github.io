@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Abu Noman Md Sakib
-    - name: Date of Birth
-      value: 3rd December 1998
+    - name: Contact
+      value: abunomanmd [dot] sakib [at] gmail [dot] com
     - name: Languages
       value: English, Bengali
 
@@ -15,7 +15,7 @@
       institution: Khulna University of Engineering and Technology, Khulna, Bangladesh
       year: 2017-2022
       description:
-        - "Thesis: Classification and Segmentation of Brain Hemorrhage from Head CT Scan Images." 
+        - "Thesis: Classification and Segmentation of Brain Hemorrhage from Head CT Scan Images."
     - title: Higher Secondary Certificate
       institution: Mirpur Cantonment Public School & College, Dhaka, Bangladesh
       year: 2015-2016
@@ -41,7 +41,7 @@
         - Conducted R&D on survey based applications (Vue, React)
         - Conducted R&D using Robi Career database (Python, Machine Learning)
     - title: AI Apprentice (Internship)
-      institution: Intelligent Machines Limited, 
+      institution: Intelligent Machines Limited,
       year: May,2019-June,2019
       description:
         - Responsible for dataset creation and supervision.
@@ -55,11 +55,11 @@
     - title: <a href="https://github.com/anmspro/Traffic-Signal-Violation-Detection-System">Traffic Signal Violation Detection System</a>
       year: 2019-now
       description: A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included).
-    
+
     - title: <a href="https://github.com/anmspro/3D-Ball-Balancing-Game-using-CPP-and-OpenGL">3D Ball Balancing Game using C++ and OpenGL</a>
       year: 2021-now
       description: A Computer Graphics based project using C++ and OpenGL. This game was built for Computer Graphics Laboratory.
-    
+
     - title: <a href="https://github.com/anmspro/Smart-Car-Parking-System">Smart Car Parking System</a>
       year: 2019-now
       description: This project aims at providing a confusion free and easy parking. It was built using Arduino Uno.
@@ -68,13 +68,13 @@
   type: time_table
   contents:
     - year: 2018-2022
-      items: 
-        - Government Scholarship in Higher Secondary Certificate Examination (Placed 575th in Dhaka Board). 
+      items:
+        - Government Scholarship in Higher Secondary Certificate Examination (Placed 575th in Dhaka Board).
     - year: 2017
-      items: 
+      items:
         - Champion at Fresher League 2017 (Bangla Parliamentary Debate Competition), KUET, Bangladesh.
     - year: 2014
-      items: 
+      items:
         - Champion at Inter House Bangla Parliamentary Debate Competition, MCPSC, Dhaka, Bangladesh.
         - Semifinalist at Inter Cantonment Public Bangla Parliamentary Debate Competition, Bangladesh.
 
@@ -82,7 +82,7 @@
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
