@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am interested in various topics related to Machine Learning, Deep Learning and Artificial Intelligence, specifically Computer Vision. Currently I am working as a Software Engineer at Red.Digital Limited. My unyielding passion for cutting-edge technology drives me to innovate and research to develop solutions that make a significant impact in the field. My ultimate objective is to become an influential researcher and educator, empowering the next generation of computer scientists to push the boundaries of what's possible.
+I am an independent researcher and professionally a Software Engineer at [Red.Digital Limited](https://www.reddotdigitalit.com) based in Dhaka, Bangladesh.
+
+I am interested in various topics related to Machine Learning, Deep Learning and Artificial Intelligence, specifically Computer Vision. My unyielding passion for cutting-edge technology drives me to innovate and research to develop solutions that make a significant impact in the field. My ultimate objective is to become an influential researcher and educator, empowering the next generation of computer scientists to push the boundaries of what's possible.
 
 Check out my [GitHub page](https://github.com/anmspro).
 

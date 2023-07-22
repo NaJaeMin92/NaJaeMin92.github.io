@@ -74,16 +74,16 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/anmspro/Traffic-Signal-Violation-Detection-System">Traffic Signal Violation Detection System</a>
-      year: 2019-now
-      description: A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included).
-
     - title: <a href="https://github.com/anmspro/3D-Ball-Balancing-Game-using-CPP-and-OpenGL">3D Ball Balancing Game using C++ and OpenGL</a>
-      year: 2021-now
+      year: 2021
       description: A Computer Graphics based project using C++ and OpenGL. This game was built for Computer Graphics Laboratory.
 
+    - title: <a href="https://github.com/anmspro/Traffic-Signal-Violation-Detection-System">Traffic Signal Violation Detection System</a>
+      year: 2019
+      description: A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included).
+
     - title: <a href="https://github.com/anmspro/Smart-Car-Parking-System">Smart Car Parking System</a>
-      year: 2019-now
+      year: 2019
       description: This project aims at providing a confusion free and easy parking. It was built using Arduino Uno.
 
 - title: Honors and Awards
