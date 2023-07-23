@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 I am an independent researcher and professionally a Software Engineer at [Red.Digital Limited](https://www.reddotdigitalit.com) based in Dhaka, Bangladesh.
 
-I hold a B.Sc. degree in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), which I completed in 2022. My undergraduate thesis focused on brain hemorrhage classification and segmentation from head CT scan images, where I employed deep learning and image processing techniques under the guidance of [Prof. Dr. Sk. Mohammad Masudul Ahsan](https://www.kuet.ac.bd/cse/smmasudul). My research interests lie in the applications of Computer Vision and Deep Learning.
+I hold a B.Sc. degree in Computer Science and Engineering from [Khulna University of Engineering & Technology (KUET)](https://www.kuet.ac.bd), which I completed in 2022. My undergraduate thesis focused on brain hemorrhage classification and segmentation from head CT scan images, where I employed deep learning and image processing techniques under the guidance of [Prof. Dr. Sk. Mohammad Masudul Ahsan](https://www.kuet.ac.bd/cse/smmasudul). My research interests lie in the applications of Computer Vision and Deep Learning.
 
-Previously, I interned at Intelligent Machines Limited, working on computer vision projects. Other than that I gained experience in various [projects](/repositories) involving machine learning, deep learning, and data visualization. Beyond my professional pursuits, I am an avid traveler. I have summited the highest peak of Bangladesh, witnessed the highest waterfall of Bangladesh, and trekked the mesmerizing Goecha La in Yuksam, India, with plans for more adventures in the future.
+Previously, I interned at [Intelligent Machines Limited](https://www.linkedin.com/company/intelligentmachines), working on computer vision projects. Other than that I gained experience in various [projects](/repositories) involving machine learning, deep learning, and data visualization. Beyond my professional pursuits, I am an avid traveler. I have summited the highest peak of Bangladesh, witnessed the highest waterfall of Bangladesh, and trekked the mesmerizing Goecha La in Yuksam, India, with plans for more adventures in the future.
 
 Check out my [GitHub page](https://github.com/anmspro).
 
