@@ -37,4 +37,4 @@ The following are broadly my current research interests. See also my [list of pu
 
 The best way to contact me is by email: [abunomanmd.sakib@gmail.com](mailto:abunomanmd.sakib@gmail.com).
 
-**I am looking to apply to PhD programs in the US for Spring/Fall 2024!**
+**I am looking to apply for PhD programs in the US for Spring/Fall 2024!**
