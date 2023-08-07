@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Science & Engineering
-      institution: Khulna University of Engineering and Technology, Khulna, Bangladesh
+    - title: Bachelor of Science in Computer Science and Engineering
+      institution: Khulna University of Engineering & Technology, Khulna, Bangladesh
       year: 2017-2022
       description:
-        - "CGPA: 3.39/4.00 (Last two years CGPA: 3.66)"
+        - "CGPA: 3.39/4.00 (Last 60 credit hours CGPA: 3.67)"
         - "Thesis: Classification and Segmentation of Brain Hemorrhage from Head CT Scan Images."
     - title: Higher Secondary Certificate
       institution: Mirpur Cantonment Public School & College, Dhaka, Bangladesh
