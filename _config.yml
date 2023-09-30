@@ -70,8 +70,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: NaJaeMin92
-gitlab_username: NaJaeMin92
-twitter_username: NaJaeMin92
+gitlab_username:
+twitter_username:
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username:
 telegram_username: # your Telegram user name
@@ -315,6 +315,8 @@ filtered_bibtex_keywords:
     website,
     preview,
     altmetric,
+    paper,
+    youtube
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
