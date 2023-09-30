@@ -17,5 +17,14 @@
 "IPAS":
   url: https://ieeexplore.ieee.org/xpl/conhome/9334927/proceeding
 
-"NeurIPS":
+"NeurIPS-2023":
   url: https://nips.cc
+
+"CVPR-2021":
+  url: https://cvpr2021.thecvf.com
+
+"ICCV-2021":
+  url: https://iccv2021.thecvf.com/home
+
+"ECCV-2022":
+  url: https://eccv2022.ecva.net
