@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer | Computer Vision Researcher
+subtitle: <a href='https://drive.google.com/file/d/1oo4gNMNzbdcl1sBsQluz0GuLKdQfbHbO/view'>CV</a>. <a href='https://github.com/najaemin92'>GitHub</a>. <a href='https://scholar.google.com/citations?hl=ko&user=SXxvdboAAAAJ'>Google Scholar</a>
 
 profile:
   align: right
@@ -26,15 +26,17 @@ social: false # includes social icons at the bottom of the page
 [//]: # (Previously, I interned at [Intelligent Machines Limited]&#40;https://www.linkedin.com/company/intelligentmachines&#41;, working on computer vision projects. Other than that I gained experience in various [projects]&#40;/repositories&#41; involving machine learning, deep learning, and data visualization. Beyond my professional pursuits, I am an avid traveler. I have summited the highest peak of Bangladesh, witnessed the highest waterfall of Bangladesh, and trekked the mesmerizing Goecha La in Yuksam, India, with plans for more adventures in the future.)
 
 [//]: # (Check out my [GitHub page]&#40;https://github.com/anmspro&#41;.)
+Currently, I am a PhD candidate under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor) in the Computer Vision Laboratory, at the Department of Artificial Intelligence, Ajou University, Korea.
 
-The following are broadly my current research interests. See also my [list of publications](/publications).
+ My research topics include transfer learning with minimal human supervision such as unsupervised domain adaptation, and knowledge distillation. 
 
-- Deep Learning
-- Machine Learning
-- Computer Vision
+[//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 
-[//]: # (- Human Computer Interaction)
-[//]: # (- Medical Image Analysis)
+[//]: # (- Deep Learning)
+[//]: # (- Machine Learning)
+[//]: # (- Computer Vision)
+
+**Contact:** osial46@ajou.ac.kr
 
 [//]: # (The best way to contact me is by email: [abunomanmd.sakib@gmail.com]&#40;mailto:abunomanmd.sakib@gmail.com&#41;.)
 
