@@ -6,7 +6,7 @@ subtitle: <a href='https://drive.google.com/file/d/1oo4gNMNzbdcl1sBsQluz0GuLKdQf
 
 profile:
   align: right
-  image: none.jpg
+  image:
   image_circular: false # crops the image to make it circular
   # address: >
   # <p>555 your office number</p>
@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
 [//]: # (Check out my [GitHub page]&#40;https://github.com/anmspro&#41;.)
 Currently, I am a PhD candidate under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor) in the Computer Vision Laboratory, at the Department of Artificial Intelligence, Ajou University, Korea.
 
- My research topics include transfer learning with minimal human supervision such as unsupervised domain adaptation, and knowledge distillation. 
+My research topics include transfer learning with minimal human supervision such as unsupervised domain adaptation, and knowledge distillation. 
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 
