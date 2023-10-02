@@ -18,14 +18,10 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-[//]: # (Currently, I am a PhD candidate under the supervision of [Dr. Wonjun Hwang]&#40;https://sites.google.com/view/ajoucvpr/member/professor&#41; in the [Computer Vision Laboratory]&#40;https://sites.google.com/view/ajoucvpr/home&#41;, at the Department of Artificial Intelligence, Ajou University, Korea.)
-
-[//]: # (My research topics include transfer learning with minimal human supervision such as unsupervised domain adaptation, and knowledge distillation. )
 I am currently a PhD candidate at the Department of Artificial Intelligence in Ajou University, Korea. 
-Under the esteemed guidance of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am part of the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
-My core expertise lies in computer vision and machine learning, including deep learning. Within these domains, 
-I have a particular focus on minimal human supervision and transfer learning, where my investigations cover unsupervised domain adaptation, 
+Under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am part of the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
+My research gravitates towards computer vision and machine learning, with an emphasis on deep learning. 
+I am particularly intrigued by the challenges of minimal human supervision and transfer learning, dedicating my research to areas such as unsupervised domain adaptation, 
 knowledge distillation, and semi-supervised semantic segmentation.
 
 My academic journey has been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab](https://hyungjinchang.wordpress.com) at the University of Birmingham 
