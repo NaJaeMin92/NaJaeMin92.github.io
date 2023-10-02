@@ -21,11 +21,10 @@ social: false # includes social icons at the bottom of the page
 I am currently a PhD candidate at the Department of Artificial Intelligence in Ajou University, Korea. 
 Under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am affiliated with the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
 My research gravitates towards computer vision and machine learning, with an emphasis on deep learning. 
-I am particularly intrigued by the challenges of minimal human supervision and transfer learning, dedicating my research to areas such as unsupervised domain adaptation, 
+I am particularly intrigued by the challenges of minimal human supervision and transfer learning, such as unsupervised domain adaptation, 
 knowledge distillation, and semi-supervised semantic segmentation.
 
-My academic journey has been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab.](https://hyungjinchang.wordpress.com) at the University of Birmingham 
-from December 2021 to June 2022. Additionally, I have collaborated with [NAVER AI Lab.](https://sites.google.com/site/dyhan0920) on research projects from August 2021 to October 2023.
+My academic journey has been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab.](https://hyungjinchang.wordpress.com) at the University of Birmingham, UK from December 2021 to June 2022. Additionally, I have collaborated with [NAVER AI Lab.](https://sites.google.com/site/dyhan0920) on research projects from August 2021 to October 2023.
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 [//]: # (- Deep Learning)
