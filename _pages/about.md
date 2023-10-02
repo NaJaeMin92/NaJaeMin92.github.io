@@ -24,8 +24,8 @@ My research gravitates towards computer vision and machine learning, with an emp
 I am particularly intrigued by the challenges of minimal human supervision and transfer learning, dedicating my research to areas such as unsupervised domain adaptation, 
 knowledge distillation, and semi-supervised semantic segmentation.
 
-My academic journey has been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab](https://hyungjinchang.wordpress.com) at the University of Birmingham 
-from December 2021 to June 2022. Moreover, I have collaborated with [NAVER AI LAB](https://sites.google.com/site/dyhan0920) on research projects from August 2021 to October 2023.
+My academic journey has been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab.](https://hyungjinchang.wordpress.com) at the University of Birmingham 
+from December 2021 to June 2022. Moreover, I have collaborated with [NAVER AI Lab.](https://sites.google.com/site/dyhan0920) on research projects from August 2021 to October 2023.
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 [//]: # (- Deep Learning)
