@@ -25,7 +25,7 @@ I am particularly intrigued by the challenges of minimal human supervision and t
 knowledge distillation, and semi-supervised semantic segmentation.
 
 My academic journey had been further enriched by serving as a Visiting Academic at the [Intelligent Robotics Lab.](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com) (2021.12-2022.06). 
-In addition, I have collaborated with [NAVER AI Lab.](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), advised by [Dongyoon Han](https://sites.google.com/site/dyhan0920) on research projects (2021.08-2023.10).
+In addition, I have collaborated with [NAVER AI Lab.](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), advised by [Dongyoon Han](https://sites.google.com/site/dyhan0920) on research projects (2021.08-).
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 [//]: # (- Deep Learning)
