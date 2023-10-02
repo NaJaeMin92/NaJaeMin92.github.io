@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 I am currently a PhD candidate at the Department of Artificial Intelligence in Ajou University, Korea. 
-Under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am part of the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
+Under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am affiliated with the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
 My research gravitates towards computer vision and machine learning, with an emphasis on deep learning. 
 I am particularly intrigued by the challenges of minimal human supervision and transfer learning, dedicating my research to areas such as unsupervised domain adaptation, 
 knowledge distillation, and semi-supervised semantic segmentation.
