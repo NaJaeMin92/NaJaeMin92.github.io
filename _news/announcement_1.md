@@ -4,4 +4,4 @@ date: 2021-03-01 15:59:00-0400
 inline: true
 ---
 
-One paper is accepted at **CVPR 2021**
+One paper is accepted to **CVPR 2021**
