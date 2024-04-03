@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://drive.google.com/file/d/1QAhl4MWFnbKIG6hWjWv7dDNNwHg5UZKM/view'>CV</a>. <a href='https://github.com/najaemin92'>GitHub</a>. <a href='https://scholar.google.com/citations?hl=ko&user=SXxvdboAAAAJ'>Google Scholar</a>
+subtitle: <a href='https://drive.google.com/file/d/1f65ezl1e-DoPARgFZzqNrGDo3TL8jArm/view'>CV</a>. <a href='https://github.com/najaemin92'>GitHub</a>. <a href='https://scholar.google.com/citations?hl=ko&user=SXxvdboAAAAJ'>Google Scholar</a>
 
 profile:
   align: right
