@@ -18,7 +18,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a senior research engineer in the Vision AI research department at KT AI2X Lab, currently focusing on research in deep learning-based object detection technologies.  My research spans the development of advanced AI models capable of interpreting complex visual scenes with high accuracy.
+I am an AI research engineer at KT AI2X Lab, currently focusing on research in deep learning-based object detection technologies.  My research spans the development of advanced AI models capable of interpreting complex visual scenes with high accuracy.
 
 Before joining KT AI2X Lab, I received my Ph.D. from the Department of Artificial Intelligence at Ajou University, Korea, under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor) in the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
 My research centered on label-efficient scene understanding, a specialized area within computer vision and machine learning. I dedicated myself to developing innovative methodologies in key aspects such as classification, semantic segmentation, and object detection. Focusing on minimal supervision techniques, my goal was to construct advanced AI models capable of accurately and efficiently interpreting complex visual scenes, marking a significant advancement towards more intuitive and autonomous artificial intelligence systems.
