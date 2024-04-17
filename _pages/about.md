@@ -29,4 +29,4 @@ Also, I had collaborated on research with [NAVER AI Lab](https://naver-career.gi
 [//]: # (- Machine Learning)
 [//]: # (- Computer Vision)
 
-**Contact:** osial46@ajou.ac.kr
+**E-mail:** jaemin.na@kt.com
