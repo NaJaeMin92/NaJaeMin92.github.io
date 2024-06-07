@@ -1,22 +1,3 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"STI":
-  url: https://fse.green.edu.bd/sti-2022/
-
-"ICICTD":
-  url: https://iict.kuet.ac.bd/icictd2022/
-
-"WSCG":
-  url: http://www.wscg.eu/
-
-"ICCIT":
-  url: https://iccit.org.bd/
-
-"IPAS":
-  url: https://ieeexplore.ieee.org/xpl/conhome/9334927/proceeding
-
 "NeurIPS-2023":
   url: https://nips.cc
   color: "#c41fed"
@@ -27,25 +8,31 @@
   
 "ICCV-2021":
   url: https://iccv2021.thecvf.com/home
-
+  color: "#c41fed"
+  
 "ECCV-2022":
   url: https://eccv2022.ecva.net
   color: "#c41fed"
   
 "ACPR-2019":
   url: https://link.springer.com/chapter/10.1007/978-3-030-41299-9_4
-
+  color: "#c41fed"
+  
 "arXiv-2023":
   url: https://arxiv.org
-
+  color: "#c41fed"
+  
 "arXiv-2024":
   url: https://arxiv.org
-
+  color: "#c41fed"
+  
 "CVPR-2024":
   url: https://cvpr.thecvf.com
-  
+  color: "#c41fed"
 "ICIP-2024":
   url: https://2024.ieeeicip.org
+  color: "#c41fed"
   
 "Doctoral Thesis":
   url: https://cvpr.thecvf.com
+  color: "#c41fed"
