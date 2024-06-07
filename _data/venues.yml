@@ -19,16 +19,19 @@
 
 "NeurIPS-2023":
   url: https://nips.cc
+  color: "#c41fed"
 
 "CVPR-2021":
   url: https://cvpr2021.thecvf.com
-
+  color: "#c41fed"
+  
 "ICCV-2021":
   url: https://iccv2021.thecvf.com/home
 
 "ECCV-2022":
   url: https://eccv2022.ecva.net
-
+  color: "#c41fed"
+  
 "ACPR-2019":
   url: https://link.springer.com/chapter/10.1007/978-3-030-41299-9_4
 
