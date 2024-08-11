@@ -4,7 +4,4 @@ date: 2024-02-27 15:59:00-0400
 inline: true
 ---
 
-<<<<<<< HEAD
-One paper is accepted to **CVPR 2024** :fire:
-=======
 One paper has been accepted to **CVPR 2024**
