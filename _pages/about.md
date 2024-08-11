@@ -18,14 +18,13 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am currently a PhD candidate at the Department of Artificial Intelligence in Ajou University, Korea. 
-Under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor), I am affiliated with the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
-My research gravitates towards computer vision and machine learning, with an emphasis on deep learning. 
-I am particularly intrigued by the challenges of minimal human supervision and transfer learning, such as unsupervised domain adaptation, 
-knowledge distillation, and semi-supervised semantic segmentation.
+I am a senior research engineer in the Vision AI research department at KT AI2X Lab, currently focusing on research in deep learning-based object detection technologies. This area of study represents a significant part of my endeavor to enhance the machine's understanding of complex visual scenes, aiming to develop sophisticated AI models that can accurately identify and classify various objects.
 
-My academic journey had been further enriched by serving as a visiting academic at the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com) from Dec.2021 to Jun.2022. 
-Also, I have collaborated with [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), advised by [Dr. Dongyoon Han](https://sites.google.com/site/dyhan0920) on research projects (from 2021.08-).
+Before joining KT AI2X Lab, I received my Ph.D. from the Department of Artificial Intelligence at Ajou University, Korea, under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor) in the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
+My research centered on label-efficient scene understanding, a specialized area within computer vision and machine learning. I dedicated myself to developing innovative methodologies in key aspects such as classification, semantic segmentation, and object detection. Focusing on minimal supervision techniques, my goal was to construct advanced AI models capable of accurately and efficiently interpreting complex visual scenes, marking a significant advancement towards more intuitive and autonomous artificial intelligence systems.
+
+My academic journey was further enriched through a visiting academic position at the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com). 
+Additionally, I have had the privilege of collaborating on research projects with [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), under the guidance of [Dr. Dongyoon Han](https://sites.google.com/site/dyhan0920).
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 [//]: # (- Deep Learning)
