@@ -24,7 +24,6 @@ My research centered on label-efficient scene understanding, a specialized area 
 
 My academic journey was further enriched through a visiting academic position at the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com). 
 Also, I had collaborated on research with [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), guided by [Dr. Dongyoon Han](https://sites.google.com/site/dyhan0920).
->>>>>>> b0b3a0cc8be8317663c7da6a3fe316d7d287f8ac
 
 [//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
 [//]: # (- Deep Learning)
