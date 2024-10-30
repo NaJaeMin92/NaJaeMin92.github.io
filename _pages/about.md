@@ -32,4 +32,4 @@ Also, I had collaborated on research with [NAVER AI Lab](https://naver-career.gi
 [//]: # (- Machine Learning)
 [//]: # (- Computer Vision)
 
-**E-mail:** jaemin.na@kt.com
+**E-mail:** fixbi46@gmail.com
