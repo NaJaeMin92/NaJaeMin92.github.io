@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a Senior Research Engineer in the Vision AI Research Department at KT AI2X Lab. 
 
-Before joining KT, I received my Ph.D. from the Department of Artificial Intelligence at Ajou University, Korea, under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/ajoucvpr/member/professor) in the [Computer Vision Laboratory](https://sites.google.com/view/ajoucvpr/home). 
+Before joining KT, I received my Ph.D. from the Department of Artificial Intelligence at Ajou University, Korea, under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/siglearnlab) in the Computer Vision Laboratory. 
 My research centered on label-efficient scene understanding, a specialized area within computer vision and machine learning. I had devoted myself to developing efficient learning methodologies to advance the performance of deep learning models in fields such as classification, semantic segmentation, and object detection. In particular, I investigated techniques that required minimal human supervision to accurately and efficiently interpret complex visual scenes.
 
 My academic journey was further enriched through a visiting academic position at the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com). 
