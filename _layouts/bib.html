@@ -9,9 +9,9 @@
             {%- if site.data.venues[entry.abbr].color != blank -%}
               {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
             {%- endif -%}
-            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+            <abbr class="venue" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <abbr class="venue">{{entry.abbr}}</abbr>
           {%- endif -%}
         </div>
         {%- endif -%}
@@ -152,7 +152,7 @@
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
-          {%- if entry.paper %}
+          {%- if entry.paper and entry.paper != empty %}
             <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
           {%- endif %}
           {%- if entry.code %}
@@ -162,7 +162,7 @@
             <a href="{{ entry.youtube }}" class="btn btn-sm z-depth-0" role="button">Youtube</a>
           {%- endif %}
           {%- if entry.github %}
-            <a href="{{ entry.github }}" class="btn btn-sm z-depth-0" role="button">Github</a>
+            <a href="{{ entry.github }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}

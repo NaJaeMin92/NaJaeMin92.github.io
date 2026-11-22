@@ -3,13 +3,24 @@ layout: default
 ---
 
 <!-- about.html -->
-<div class="post">
-  <header class="post-header">
+<div class="post academic-page">
+  <header class="post-header academic-intro">
     <h1 class="post-title">
-      {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-      {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+      {% if site.title == "blank" -%}
+        {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+      {%- else -%}{{ site.title }}{%- endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+    {% if page.research_focus %}
+    <p class="research-focus">{{ page.research_focus }}</p>
+    {% endif %}
+    {% if page.profile_links %}
+    <nav class="profile-links" aria-label="Profile links">
+      {% for link in page.profile_links %}
+      <a href="{{ link.url }}">{{ link.label }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
   </header>
 
   <article>
@@ -37,9 +48,19 @@ layout: default
     </div>
     {%- endif %}
 
-    <div class="clearfix">
+    <div class="clearfix academic-bio">
       {{ content }}
     </div>
+
+    {% if page.selected_papers -%}
+    <section class="selected-publications" aria-labelledby="selected-publications">
+      <div class="section-heading">
+        <h2 id="selected-publications">Selected Publications</h2>
+        <a href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a>
+      </div>
+      {%- include selected_papers.html %}
+    </section>
+    {%- endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled -%}
@@ -51,12 +72,6 @@ layout: default
     {% if page.latest_posts -%}
     <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest Posts</a></h2>
     {%- include latest_posts.html %}
-    {%- endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers -%}
-    <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
-    {%- include selected_papers.html %}
     {%- endif %}
 
     <!-- Social -->

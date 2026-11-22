@@ -2,7 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://drive.google.com/file/d/1GQiRHisx4xx6FroasA8gL_9qRTtZb5OF/view'>CV</a>. <a href='https://github.com/najaemin92'>GitHub</a>. <a href='https://scholar.google.com/citations?user=C1Jl61oAAAAJ'>Google Scholar</a>
+subtitle: Senior Research Engineer at KT AI2X Lab
+research_focus: Label-efficient scene understanding for classification, semantic segmentation, and object detection.
+profile_links:
+  - label: CV
+    url: https://drive.google.com/file/d/1GQiRHisx4xx6FroasA8gL_9qRTtZb5OF/view
+  - label: GitHub
+    url: https://github.com/najaemin92
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=C1Jl61oAAAAJ
+  - label: Email
+    url: mailto:fixbi46@gmail.com
 
 profile:
   align: right
@@ -19,17 +29,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Engineer in the Vision AI Research Department at KT AI2X Lab. 
+I work in the Vision AI Research Department at KT AI2X Lab. Before joining KT, I received my Ph.D. in Artificial Intelligence from Ajou University, where I studied how vision models can learn from limited supervision under the guidance of [Dr. Wonjun Hwang](https://sites.google.com/view/siglearnlab).
 
-Before joining KT, I received my Ph.D. from the Department of Artificial Intelligence at Ajou University, Korea, under the supervision of [Dr. Wonjun Hwang](https://sites.google.com/view/siglearnlab) in the Computer Vision Laboratory. 
-My research centered on label-efficient scene understanding, a specialized area within computer vision and machine learning. I had devoted myself to developing efficient learning methodologies to advance the performance of deep learning models in fields such as classification, semantic segmentation, and object detection. In particular, I investigated techniques that required minimal human supervision to accurately and efficiently interpret complex visual scenes.
-
-My academic journey was further enriched through a visiting academic position at the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab) at the University of Birmingham, UK, advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com). 
-Also, I had collaborated on research with [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), guided by [Dr. Dongyoon Han](https://sites.google.com/site/dyhan0920).
-
-[//]: # (The following are broadly my current research interests. See also my [list of publications]&#40;/publications&#41;.)
-[//]: # (- Deep Learning)
-[//]: # (- Machine Learning)
-[//]: # (- Computer Vision)
-
-**E-mail:** fixbi46@gmail.com
+I was a visiting academic at the University of Birmingham’s [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab), advised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com), and collaborated with [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab) under the guidance of [Dr. Dongyoon Han](https://sites.google.com/site/dyhan0920).
